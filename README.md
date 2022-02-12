@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @jairalcon
-- 👀 I’m interested in software development to add to my skillset.
-- 🌱 I’m currently learning JavaScript, Bootstrap, and React through courses at PromineoTech.
+I've always had a passion for technology and hardware. Tehnchology is always advancing and I would like to have some part in that movement. Recently, I've been exposed to the world of software development. I'm eager to learn all that I can through Promineo Tech.
 
 <!---
 jairalcon/jairalcon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
