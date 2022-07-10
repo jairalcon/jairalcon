@@ -49,7 +49,7 @@ now I have all the questions.
 <p>
 
 - [ ] Week 7: Hyper Text Markup Language (HTML)
-  - [Week 7 Code]()
+  - [Week 7 Code](https://github.com/jairalcon/Promineo/tree/main/2FET/Week7-HTML)
 
 - [ ] Week 8: Cascading Style Sheets (CSS)
   - [Week 8 Code]()
