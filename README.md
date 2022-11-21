@@ -21,22 +21,22 @@ now I have all the questions.
 <details><summary> Weeks 1 - 6 </summary>
 <p>
 
-- [x] Week 1: CLI, Source Control, and Variables
+- ✅ Week 1: CLI, Source Control, and Variables
   - [Week 1 Code](https://github.com/jairalcon/Promineo/tree/main/1JS/Week1-Variables)
 
-- [x] Week 2: Conditions and Loops
+- ✅ Week 2: Conditions and Loops
   - [Week 2 Code](https://github.com/jairalcon/Promineo/tree/main/1JS/Week2-ConditionsAndLoops)
 
-- [x] Week 3: Arrays and Functions
+- ✅ Week 3: Arrays and Functions
   - [Week 3 Code](https://github.com/jairalcon/Promineo/tree/main/1JS/Week3-ArraysAndFunctions)
 
-- [x] Week 4: ECMAScript 6 and Intermediate JavaScript
+- ✅ Week 4: ECMAScript 6 and Intermediate JavaScript
   - [Week 4 Code](https://github.com/jairalcon/Promineo/tree/main/1JS/Week4-ECMASAndInterJS)
 
-- [x] Week 5: Object Oriented Programming
+- ✅ Week 5: Object Oriented Programming
   - [Week 5 Code](https://github.com/jairalcon/Promineo/tree/main/1JS/Week5-ObjectOrtientedProgramming)
 
-- [ ] Week 6: DevTools, Debugging, and Unit Tests
+- ✅ Week 6: DevTools, Debugging, and Unit Tests
   - [Week 6 Code](https://github.com/jairalcon/Promineo/tree/main/1JS/Week6-DevToolsDebuggingAndUnitTesting)
 
 </p>
@@ -48,22 +48,22 @@ now I have all the questions.
 <details><summary> Weeks 7 - 12 </summary>
 <p>
 
-- [ ] Week 7: Hyper Text Markup Language (HTML)
+- ✅ Week 7: Hyper Text Markup Language (HTML)
   - [Week 7 Code](https://github.com/jairalcon/Promineo/tree/main/2FET/Week7-HTML)
 
-- [ ] Week 8: Cascading Style Sheets (CSS)
+- ✅ Week 8: Cascading Style Sheets (CSS)
   - [Week 8 Code]()
 
-- [ ] Week 9: Bootstrap
+- ✅ Week 9: Bootstrap
   - [Week 9 Code]()
 
-- [ ] Week 10: JavaScript and DOM Manipulation
+- ✅ Week 10: JavaScript and DOM Manipulation
   - [Week 10 Code]()
 
-- [ ] Week 11: JQuery and AJAX
+- ✅ Week 11: JQuery and AJAX
   - [Week 11 Code]()
 
-- [ ] Week 12: Project
+- ✅ Week 12: Project
   - [Week 12 Code]()
 
 </p>
@@ -75,22 +75,22 @@ now I have all the questions.
 <details><summary> Weeks 13 - 18 </summary>
 <p>
 
-- [ ] Week 13: Intro to React, Webpack, Components, and JSX
+- ✅ Week 13: Intro to React, Webpack, Components, and JSX
   - [Week 13 Code]()
 
-- [ ] Week 14: Props, State, Events, and Lifecycle Methods
+- ✅ Week 14: Props, State, Events, and Lifecycle Methods
   - [Week 14 Code]()
 
-- [ ] Week 15: REST, Fetch, Functional Components, and Best Practices
+- ✅ Week 15: REST, Fetch, Functional Components, and Best Practices
   - [Week 15 Code]()
 
-- [ ] Week 16: React Router, and React Bootstrap
+- ✅ Week 16: React Router, and React Bootstrap
   - [Week 16 Code]()
 
-- [ ] Week 17: Prop Types, Higher-Order Components, and Redux Overview
+- ✅ Week 17: Prop Types, Higher-Order Components, and Redux Overview
   - [Week 17 Code]()
 
-- [ ] Week 18: Deploying to AWS Elastic Beanstalk
+- ✅ Week 18: Deploying to AWS Elastic Beanstalk
   - [Week 18 Code]()
 
 </p>
