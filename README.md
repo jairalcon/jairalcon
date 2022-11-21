@@ -35,6 +35,8 @@ now I have all the questions.
 
 - ✅ Week 5: Object Oriented Programming
   - [Week 5 Code](https://github.com/jairalcon/Promineo/tree/main/1JS/Week5-ObjectOrtientedProgramming)
+  - [Week 5 Project Code](https://github.com/jairalcon/Week5CodingAssignment)
+  - [Week 5 Project Demo](https://jairalcon.github.io/Week5CodingAssignment/)
 
 - ✅ Week 6: DevTools, Debugging, and Unit Tests
   - [Week 6 Code](https://github.com/jairalcon/Promineo/tree/main/1JS/Week6-DevToolsDebuggingAndUnitTesting)
@@ -70,7 +72,7 @@ now I have all the questions.
 </details>
 
 
-### Intro to JavaScript:
+### Web App Design with React:
 
 <details><summary> Weeks 13 - 18 </summary>
 <p>
@@ -86,6 +88,7 @@ now I have all the questions.
 
 - ✅ Week 16: React Router, and React Bootstrap
   - [Week 16 Code]()
+  - [Week 16 Final Project](https://github.com/jairalcon/week16-final-project)
 
 - ✅ Week 17: Prop Types, Higher-Order Components, and Redux Overview
   - [Week 17 Code]()
