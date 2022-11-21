@@ -40,6 +40,8 @@ now I have all the questions.
 
 - ✅ Week 6: DevTools, Debugging, and Unit Tests
   - [Week 6 Code](https://github.com/jairalcon/Promineo/tree/main/1JS/Week6-DevToolsDebuggingAndUnitTesting)
+  - [Week 6 Project Code](https://github.com/jairalcon/Week6CodingAssignment)
+  - [Week 6 Project Demo](https://jairalcon.github.io/Week6CodingAssignment/)
 
 </p>
 </details>
@@ -56,27 +58,27 @@ now I have all the questions.
   - [Week 7 Project Demo](https://jairalcon.github.io/Week7CodingAssignment/)
 
 - ✅ Week 8: Cascading Style Sheets (CSS)
-  - [Week 8 Code]()
+  - [Week 8 Code](https://github.com/jairalcon/Promineo/tree/main/2FET/Week8-CSS)
   - [Week 8 Project Code](https://github.com/jairalcon/Week8CodingAssignment)
   - [Week 8 Project Demo](https://jairalcon.github.io/Week8CodingAssignment/)
 
 - ✅ Week 9: Bootstrap
-  - [Week 9 Code]()
+  - [Week 9 Code](https://github.com/jairalcon/Promineo/tree/main/2FET/Week9-Bootstrap)
   - [Week 9 Project Code](https://github.com/jairalcon/Week9CodingAssignment)
   - [Week 9 Project Demo](https://jairalcon.github.io/Week9CodingAssignment/)
 
 - ✅ Week 10: JavaScript and DOM Manipulation
-  - [Week 10 Code]()
+  - [Week 10 Code](https://github.com/jairalcon/Promineo/tree/main/2FET/Week10-JS-DOM)
   - [Week 10 Project Code](https://github.com/jairalcon/Week10CodingAssignment)
   - [Week 10 Project Demo](https://jairalcon.github.io/Week10CodingAssignment/)
 
 - ✅ Week 11: JQuery and AJAX
-  - [Week 11 Code]()
+  - [Week 11 Code](https://github.com/jairalcon/Promineo/tree/main/2FET/Week11-JQuery-AJAX)
   - [Week 11 Project Code](https://github.com/jairalcon/Week11CodingAssignment)
   - [Week 11 Project Demo](https://jairalcon.github.io/Week11CodingAssignment/)
 
 - ✅ Week 12: Project
-  - [Week 12 Code]()
+  - [Week 12 Code](https://github.com/jairalcon/Promineo/tree/main/2FET/Week12-CRUD-Project)
   - [Week 12 Project Code](https://github.com/jairalcon/Week12CodingAssignment)
   - [Week 12 Project Demo](https://jairalcon.github.io/Week12CodingAssignment/)
 
@@ -90,26 +92,26 @@ now I have all the questions.
 <p>
 
 - ✅ Week 13: Intro to React, Webpack, Components, and JSX
-  - [Week 13 Code]()
+  - [Week 13 Code](https://github.com/jairalcon/Promineo/tree/main/3React/Week13-IntroToReact-Webpack-Components-JSX)
   - [Week 13 Project Code](https://github.com/jairalcon/Week13CodingAssignment)
 
 - ✅ Week 14: Props, State, Events, and Lifecycle Methods
-  - [Week 14 Code]()
+  - [Week 14 Code](https://github.com/jairalcon/Promineo/tree/main/3React/Week14-Props-State-Events-LifecycleMethods)
   - [Week 14 Project Code](https://github.com/jairalcon/week14-coding-assignment)
 
 - ✅ Week 15: REST, Fetch, Functional Components, and Best Practices
-  - [Week 15 Code]()
+  - [Week 15 Code](https://github.com/jairalcon/Promineo/tree/main/3React/Week15-REST-Fetch-Functional-Components-BestPractices)
   - [Week 15 Project Code](https://github.com/jairalcon/week15-coding-assignment)
 
 - ✅ Week 16: React Router, and React Bootstrap
-  - [Week 16 Code]()
+  - [Week 16 Code](https://github.com/jairalcon/Promineo/tree/main/3React/Week16-ReactRouter-ReactBootstrap)
   - [Week 16 Final Project](https://github.com/jairalcon/week16-final-project)
 
 - ✅ Week 17: Prop Types, Higher-Order Components, and Redux Overview
-  - [Week 17 Code]()
+  - [Week 17 Code](https://github.com/jairalcon/Promineo/tree/main/3React/Week17-PropTypes-HigherOrderComponents-ReduxOverview)
 
 - ✅ Week 18: Deploying to AWS Elastic Beanstalk
-  - [Week 18 Code]()
+  - [Week 18 Code](https://github.com/jairalcon/Promineo/tree/main/3React/Week18-Deploying-to-AWSElasticBeanstalk)
 
 </p>
 </details>
