@@ -67,6 +67,8 @@ now I have all the questions.
 
 - ✅ Week 12: Project
   - [Week 12 Code]()
+  - [Week 12 Project Code](https://github.com/jairalcon/Week12CodingAssignment)
+  - [Week 12 Project Demo](https://jairalcon.github.io/Week12CodingAssignment/)
 
 </p>
 </details>
@@ -79,12 +81,15 @@ now I have all the questions.
 
 - ✅ Week 13: Intro to React, Webpack, Components, and JSX
   - [Week 13 Code]()
+  - [Week 13 Project Code](https://github.com/jairalcon/Week13CodingAssignment)
 
 - ✅ Week 14: Props, State, Events, and Lifecycle Methods
   - [Week 14 Code]()
+  - [Week 14 Project Code](https://github.com/jairalcon/week14-coding-assignment)
 
 - ✅ Week 15: REST, Fetch, Functional Components, and Best Practices
   - [Week 15 Code]()
+  - [Week 15 Project Code](https://github.com/jairalcon/week15-coding-assignment)
 
 - ✅ Week 16: React Router, and React Bootstrap
   - [Week 16 Code]()
