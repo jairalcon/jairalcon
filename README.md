@@ -52,18 +52,28 @@ now I have all the questions.
 
 - ✅ Week 7: Hyper Text Markup Language (HTML)
   - [Week 7 Code](https://github.com/jairalcon/Promineo/tree/main/2FET/Week7-HTML)
+  - [Week 7 Project Code](https://github.com/jairalcon/Week7CodingAssignment)
+  - [Week 7 Project Demo](https://jairalcon.github.io/Week7CodingAssignment/)
 
 - ✅ Week 8: Cascading Style Sheets (CSS)
   - [Week 8 Code]()
+  - [Week 8 Project Code](https://github.com/jairalcon/Week8CodingAssignment)
+  - [Week 8 Project Demo](https://jairalcon.github.io/Week8CodingAssignment/)
 
 - ✅ Week 9: Bootstrap
   - [Week 9 Code]()
+  - [Week 9 Project Code](https://github.com/jairalcon/Week9CodingAssignment)
+  - [Week 9 Project Demo](https://jairalcon.github.io/Week9CodingAssignment/)
 
 - ✅ Week 10: JavaScript and DOM Manipulation
   - [Week 10 Code]()
+  - [Week 10 Project Code](https://github.com/jairalcon/Week10CodingAssignment)
+  - [Week 10 Project Demo](https://jairalcon.github.io/Week10CodingAssignment/)
 
 - ✅ Week 11: JQuery and AJAX
   - [Week 11 Code]()
+  - [Week 11 Project Code](https://github.com/jairalcon/Week11CodingAssignment)
+  - [Week 11 Project Demo](https://jairalcon.github.io/Week11CodingAssignment/)
 
 - ✅ Week 12: Project
   - [Week 12 Code]()
