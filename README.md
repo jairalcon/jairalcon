@@ -13,7 +13,7 @@ Here's a quote I stole from someone in my Promineo Tech cohort:
 This has resonated with me because for the previous four years, as a supervisor, I had been the person with all the answers but
 now I have all the questions.
 
-## Here's my progress with Promineo Tech's Front End Program:
+## Here's my completed progress with Promineo Tech's Front End Program:
 
 
 ### Intro to JavaScript:
