@@ -4,7 +4,7 @@
 - Growing up through the 90's digital age, I taught myself intermediate software and hardware toubleshooting techniques on the home computer, which were really fun to solve.
 - Tehnchology is constantly advancing and I would like to partake in this movement.
 - Recently, I've been exposed to the world of software development and all the opportunities associated with it.
-- I'm eager to learn all that I can through Promineo Tech and to continue learning my new role as a software developer.
+- I enrolled in a bootcamp at Promineo Tech in 2022 and completed their Front End Software Development course.
 
 Here's a quote I stole from someone in my Promineo Tech cohort:
 
