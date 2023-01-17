@@ -7,7 +7,7 @@ Here's a quote I stole from someone in my Promineo Tech cohort:
 This has resonated with me because for the previous four years, as a supervisor, I had been the person with all the answers but
 now I have all the questions.
 
-## 🖥 [Portofolio Website Using NextJS/Tailwind CSS/Deployed on AWS Amplify](https://main.dl4v5rpi943x2.amplifyapp.com/)
+<!-- ## 🖥 [Portofolio Website Using NextJS/Tailwind CSS/Deployed on AWS Amplify](https://main.dl4v5rpi943x2.amplifyapp.com/) -->
 
 ## 📄 Promineo Tech's Front End Development Certificate & Course Work:
 
@@ -114,7 +114,8 @@ now I have all the questions.
 </details>
 
 ## Portfolio & Projects
-- 
+- 🖥 [Portofolio Website Using NextJS/Tailwind CSS/Deployed on AWS Amplify](https://main.dl4v5rpi943x2.amplifyapp.com/)
+
 
 
 ## My Coding Journey
