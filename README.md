@@ -1,4 +1,4 @@
-# Hello, there. 🙋🏽‍♂️
+# Hello, there. 👋🏽
 
 - I've always had a general passion for technology for as long as I can remember.
 - Growing up through the 90's digital age, I taught myself intermediate software and hardware toubleshooting techniques on the home computer, which were really fun to solve.
