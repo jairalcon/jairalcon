@@ -1,4 +1,4 @@
-# Hello, there. 👋🏽
+# 👋🏽 Hello, there.
 
 Here's a quote I stole from someone in my Promineo Tech cohort:
 
@@ -7,8 +7,9 @@ Here's a quote I stole from someone in my Promineo Tech cohort:
 This has resonated with me because for the previous four years, as a supervisor, I had been the person with all the answers but
 now I have all the questions.
 
-## Here's my completed progress with Promineo Tech's Front End Program:
+## 📄 Promineo Tech's Front End Development Certificate & Course Work:
 
+<img src="https://user-images.githubusercontent.com/98365593/212944958-52be18be-cd71-4637-8988-fcbce9172f39.jpg" width="500">
 
 ### Intro to JavaScript:
 
