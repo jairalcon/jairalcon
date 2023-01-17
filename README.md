@@ -1,11 +1,5 @@
 # Hello, there. 👋🏽
 
-- I've always had a general passion for technology for as long as I can remember.
-- Growing up through the 90's digital age, I taught myself intermediate software and hardware toubleshooting techniques on the home computer, which were really fun to solve.
-- Tehnchology is constantly advancing and I would like to partake in this movement.
-- Recently, I've been exposed to the world of software development and all the opportunities associated with it.
-- I enrolled in a bootcamp at Promineo Tech in 2022 and completed their Front End Software Development course.
-
 Here's a quote I stole from someone in my Promineo Tech cohort:
 
 > Someone who asks a question is a fool for a minute, but someone who doesn't ask is a fool for a lifetime.
@@ -116,7 +110,12 @@ now I have all the questions.
 </p>
 </details>
 
-
+## Misc Info 💁🏽‍♂️
+- I've always had a general passion for technology for as long as I can remember.
+- Growing up through the 90's digital age, I taught myself intermediate software and hardware toubleshooting techniques on the home computer, which were really fun to solve.
+- Tehnchology is constantly advancing and I would like to partake in this movement.
+- Recently, I've been exposed to the world of software development and all the opportunities associated with it.
+- I enrolled in a bootcamp at Promineo Tech in 2022 and completed their Front End Software Development course.
 
 
 
