@@ -111,12 +111,24 @@ now I have all the questions.
 </p>
 </details>
 
-## Misc Info 💁🏽‍♂️
+## Portfolio & Projects
+- 
+
+
+## My Coding Journey
+
+<details><summary> 💁🏽‍♂️ </summary>
+<p>
+  
 - I've always had a general passion for technology for as long as I can remember.
 - Growing up through the 90's digital age, I taught myself intermediate software and hardware toubleshooting techniques on the home computer, which were really fun to solve.
 - Tehnchology is constantly advancing and I would like to partake in this movement.
 - Recently, I've been exposed to the world of software development and all the opportunities associated with it.
 - I enrolled in a bootcamp at Promineo Tech in 2022 and completed their Front End Software Development course.
+- I'm currently seeking oooportunities locally and globally.
+  
+</p>
+</details>
 
 
 
