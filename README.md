@@ -1,4 +1,6 @@
-# 👋🏽 Hello, there.
+# 👋🏽 Jair Alcon
+
+**`Digital Apprentice (Front End Developer/Photographer)`**
 
 Here's a quote I stole from someone in my Promineo Tech cohort:
 
