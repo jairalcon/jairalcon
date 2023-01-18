@@ -1,7 +1,6 @@
 # 👋🏽 Jair Alcon
 
-**`Digital Apprentice (Front End Developer/Photographer)`**
-
+**`Digital Journeyman (Front End Developer/Photographer)`**
 
 ---
 
