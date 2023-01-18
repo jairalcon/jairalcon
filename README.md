@@ -135,7 +135,9 @@ now I have all the questions.
 ## Portfolio & Projects
 - 🖥 [Portofolio Website Using NextJS/Tailwind CSS/Deployed on AWS Amplify](https://main.dl4v5rpi943x2.amplifyapp.com/)
 
+## 📊 Stats
 
+![Jair's GitHub stats](https://github-readme-stats.vercel.app/api?username=jairalcon&show_icons=true&theme=gruvbox)
 
 ## My Coding Journey
 
